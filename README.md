@@ -12,7 +12,7 @@ python 3
 
 ## Usage
 
-`python main.py`
+`python car_info.py`
 
 ```
 if __name__ == "__main__":

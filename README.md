@@ -5,7 +5,7 @@
 
 ## main.py
 * 輸入指定車子品牌，程式自動蒐集該品牌所有車型以及其相對應的引擎和變速箱型號。
-* 目前只支援 Jaguar/Land rover。
+* 目前只支援 Jaguar/Land rover，回傳資料如 csv 檔。
 
 ## Requirements
 python 3
